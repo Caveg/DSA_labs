@@ -1,6 +1,8 @@
-#include <stdio.h>
+ #include "Student_functions.h"
+
 
 int main(void) {
-    printf("Hello, World!\n");
+   // printf("%i", sum(2,3));
+
     return 0;
 }
