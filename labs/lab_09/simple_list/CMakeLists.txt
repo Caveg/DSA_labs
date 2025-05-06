@@ -7,4 +7,6 @@ add_executable(simple_list main.c
         simple_list_functions.c
         simple_list_functions.h
         ../../lab_10/double_list/main.c
-        ../../lab_10/double_list/double_list_functions.c)
+        ../../lab_10/double_list/double_list_functions.c
+        ../../lab_11/binary_tree.c
+        ../../lab_11/main.c)
